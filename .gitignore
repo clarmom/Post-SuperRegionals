@@ -67,3 +67,6 @@ build/android-profile/profile-2017-03-27-20-33-09-338.rawproto
 build/android-profile/profile-2017-03-27-20-33-19-108.rawproto
 local.properties
 *.xml
+local.properties
+build/android-profile/profile-2017-03-27-20-42-26-070.rawproto
+*.rawproto
