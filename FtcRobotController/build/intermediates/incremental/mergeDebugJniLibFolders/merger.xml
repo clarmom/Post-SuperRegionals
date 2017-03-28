@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\clar\Desktop\ftc_app_2_62\FtcRobotController\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\clar\Desktop\ftc_app_2_62\FtcRobotController\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Github\Post-SuperRegionals\FtcRobotController\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\Github\Post-SuperRegionals\FtcRobotController\src\debug\jniLibs"/></dataSet></merger>

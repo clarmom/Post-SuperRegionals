@@ -1,13 +1,10 @@
 <component name="libraryTable">
   <library name="Blocks-release-">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/TeamCode/build/intermediates/exploded-aar/Blocks-release/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/TeamCode/build/intermediates/exploded-aar/Blocks-release/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/a796fca31aa05be2b7415da7782a1593130dba84/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a796fca31aa05be2b7415da7782a1593130dba84/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="jar://$PROJECT_DIR$/libs/Blocks-release-sources.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/Blocks-release-sources.jar!/" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>

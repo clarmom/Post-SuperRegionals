@@ -1,13 +1,10 @@
 <component name="libraryTable">
   <library name="Hardware-release-">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/TeamCode/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/TeamCode/build/intermediates/exploded-aar/Hardware-release/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/6f5eb65b61747fc5230d3eca10259180c57167f3/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/6f5eb65b61747fc5230d3eca10259180c57167f3/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="jar://$PROJECT_DIR$/libs/Hardware-release-sources.jar!/" />
-      <root url="jar://$PROJECT_DIR$/libs/Hardware-release-sources.jar!/" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>

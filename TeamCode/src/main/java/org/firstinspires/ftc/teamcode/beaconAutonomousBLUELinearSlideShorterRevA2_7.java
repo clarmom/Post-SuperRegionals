@@ -16,10 +16,6 @@ import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShor
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.DRIVE_TO_VORTEX;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.SLIDE_SLOWLY_TILL_LINE;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.SLIDE_TO_OTHER_BEACON;
-import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STOP1;
-import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STOP2;
-import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STOP3;
-import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STOP4;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STOP_AFTER_BACKING_UP;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STOP_FINAL;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STOP_ON_LINE;
@@ -30,7 +26,6 @@ import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShor
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.TURN_TOWARD_WALL;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.WAIT_FOR_PUSH1;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.WAIT_FOR_PUSH2;
-import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.STRAFE_BACK_SLIGHTLY;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.RECOVERY;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.FAILSAFE_CODE;
 import static org.firstinspires.ftc.teamcode.beaconAutonomousBLUELinearSlideShorterRevA2_7.State.MOVE_LEFT;
@@ -59,14 +54,10 @@ public class beaconAutonomousBLUELinearSlideShorterRevA2_7 extends Error404_Hard
       DRIVE_STRAIGHT_FROM_WALL,
       RECOVERY,
       FAILSAFE_CODE,
-      STOP1,
       TURN_TOWARD_LINE,
-      STOP2,
       DRIVE_QUICKLY_STRAIGHT_TO_LINE,
       DRIVE_SLOWLY_TILL_FIND_LINE,
-      STOP3,
       TURN_TOWARD_WALL,
-      STOP4,
       DRIVE_TILL_TOUCH,
       STOP_RESET_CAPTURE_POSITION,
       CHECK_COLOR_LOGIC1,
@@ -76,7 +67,6 @@ public class beaconAutonomousBLUELinearSlideShorterRevA2_7 extends Error404_Hard
       SLIDE_TO_OTHER_BEACON,
       SLIDE_SLOWLY_TILL_LINE,
       STOP_ON_LINE,
-      STRAFE_BACK_SLIGHTLY,
       DRIVE_TILL_TOUCH2,
       STOP_ON_WALL,
       CHECK_COLOR_LOGIC2,
