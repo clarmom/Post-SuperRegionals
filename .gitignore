@@ -70,3 +70,5 @@ local.properties
 local.properties
 build/android-profile/profile-2017-03-27-20-42-26-070.rawproto
 *.rawproto
+local.properties
+.idea\workspace.xml
