@@ -65,3 +65,5 @@ $RECYCLE.BIN/
 .gradle/3.3/taskArtifacts/taskArtifacts.bin
 build/android-profile/profile-2017-03-27-20-33-09-338.rawproto
 build/android-profile/profile-2017-03-27-20-33-19-108.rawproto
+local.properties
+*.xml
